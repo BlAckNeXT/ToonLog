@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "SecondVC Button"; ObjectID = "0sz-Bo-SF7"; */
+"0sz-Bo-SF7.normalTitle" = "SecondVC Button";
+
+/* Class = "UILabel"; text = "I'm the SecondViewController"; ObjectID = "5Un-fp-f28"; */
+"5Un-fp-f28.text" = "I'm the SecondViewController";
+
+/* Class = "UIButton"; normalTitle = "Button Two"; ObjectID = "D6a-Tq-EzC"; */
+"D6a-Tq-EzC.normalTitle" = "Button Two";
+
+/* Class = "UIButton"; normalTitle = "Button One"; ObjectID = "QnH-wq-oij"; */
+"QnH-wq-oij.normalTitle" = "Button One";
